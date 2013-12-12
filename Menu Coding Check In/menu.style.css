@@ -1,0 +1,41 @@
+body {
+	font-size:100%;
+	background: #FF4500;
+}
+
+h1 { 
+	font-size:4em; /* 1em=100% */ 
+	font-family: 'Lobster', cursive;
+	color:orange;
+	text-shadow:.05em .05em .2em #333;
+}
+
+h2 {
+	font-size:2.5em; /* 1em=100% */
+	font-family: 'Lobster';
+	color:#FF8C00;
+}
+
+h3 {
+	font-size:4em;
+	font-weight:normal;
+	font-style:italic;
+}
+
+.nora {
+	background-color: #FF7F50;
+	font-family: 'Lobster';
+}
+
+.helmer {
+	font-family: 'Lobster', serif;
+}
+
+.nora, .helmer{
+	font-size:.75em;
+}
+
+.character {
+	font-weight: bold;
+	font-style:italic;
+}
