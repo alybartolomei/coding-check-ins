@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>A Tale of Two Cities</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+	<link rel="stylesheet" href="custom.css">
+	<link href='http://fonts.googleapis.com/css?family=Megrim' rel='stylesheet' type='text/css'>
+	<link href="http://fonts.googleapis.com/css?family=Cookie" rel="stylesheet" type="text/css">
+	
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://code.jquery.com/jquery.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.min.js"></script>
+	
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+	  
+    <![endif]-->
+  </head>
+  <body>
+  <!--<div class="container">-->
+  
+ 
+<div id="bar">
+	<div class="row">
+	<h1><a href="index.html">Katharine Willa Sipio</a></h1> 
+	</div></div>
+
+<div id="first-row"> 
+  
+<div class="row">
+        
+		<div class="col-md-4">
+		
+			<div class="bw pic">
+				<a href="about.html"><img src="georgia.jpg" alt="georgia-pic" height="500" width="417"></a><h2>  </h2>
+			</div>
+       
+		</div>
